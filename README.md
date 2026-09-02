@@ -1,30 +1,27 @@
 # Sky Sense
 
-> A personal AI-powered learning, thinking, and decision-support platform.
+> A personal AI-powered platform focused on learning, thinking, and decision support.
 
-Sky Sense is a Progressive Web App designed around a personal AI persona called **SKY**.
+Sky Sense is a Progressive Web App currently under active development.
 
-The goal is to build an AI experience that goes beyond simple question-and-answer interactions by combining conversation, personal context, learning support, and structured knowledge into one focused platform.
+The project explores a more focused and personalized approach to AI interaction, combining conversational assistance with structured user experiences and long-term personalization.
 
 ## 🚧 Project Status
 
 **Active Development**
 
-The core application, authentication, user management, administration system, and initial SKY AI integration are already in place.
+The core application, authentication, user management, administration system, and initial AI integration are currently in place.
 
-The AI backend and production architecture are currently being developed.
+The AI architecture and additional platform capabilities are being developed incrementally.
 
-## ✨ Planned Direction
+## ✨ Current Direction
 
-- 🤖 SKY — personal AI persona
-- 💬 Context-aware conversations
-- 🧠 Conversation memory
-- 📚 Curated and approved knowledge for SKY
-- 📊 AI usage awareness and adaptive limits
-- 🔐 Secure authenticated AI access
-- 👤 User profile and personalization
-- ⭐ VIP access and private publisher communication
-- 🛡️ Security and abuse protection
+- 🤖 Personal AI experience
+- 💬 Conversational interaction
+- 🧠 Context and personalization
+- 📚 Structured knowledge
+- 🔐 Secure authenticated access
+- 👤 User-focused platform features
 - 📱 Progressive Web App experience
 
 ## 🏗️ Technology
@@ -35,13 +32,14 @@ The AI backend and production architecture are currently being developed.
 - Cloud Firestore
 - Cloudflare Workers
 - Cloudflare Workers AI
-- GLM-4.7-Flash
 
 ## 🎯 Vision
 
-Sky Sense is being built as a practical personal AI environment where the focus is not simply on generating answers, but on helping the user **think better, learn continuously, understand complex topics, and make better decisions.**
+Sky Sense is being built around a simple idea:
 
-More details will be added as development progresses.
+**AI should be useful not only for answering questions, but for helping people think, learn, understand, and make better decisions.**
+
+More details will be documented as development progresses.
 
 ---
 
