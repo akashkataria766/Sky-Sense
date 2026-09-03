@@ -41,6 +41,6 @@ Sky Sense is being built around a simple idea:
 
 More details will be documented as development progresses.
 
----
+----
 
 **Sky Sense — Think. Learn. Understand.**
